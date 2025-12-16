@@ -229,4 +229,3 @@ The Quality Advocate works with the **Product Owner** and **Business Analyst** d
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - The expanded set of personas helps clarify role boundaries, reduce ambiguity, and support effective onboarding by illustrating how different roles collaborate throughout the project lifecycle.
-
