@@ -16,7 +16,7 @@ To dive deeper into specific aspects of OctoAcme's project management approach, 
 - **[Project Initiation](octoacme-project-initiation.md)** — How to validate ideas and create project one-pagers
 - **[Project Planning](octoacme-project-planning.md)** — Breaking work into actionable backlogs and release plans
 - **[Execution & Tracking](octoacme-execution-and-tracking.md)** — Daily workflows, quality practices, and progress monitoring
-- **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed responsibilities for PMs, PdMs, Developers, and QA
+- **[Roles & Personas](octoacme-roles-and-personas.md)** — Detailed responsibilities and collaboration examples for all project roles including PMs, PdMs, Developers, Product Owners, Release Managers, Business Analysts, Scrum Masters, and Quality Advocates
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** — Risk registers, escalation paths, and stakeholder updates
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** — Learning cycles and action tracking
 - **[Release & Deployment](octoacme-release-and-deployment.md)** — Deployment practices and verification processes

@@ -20,6 +20,8 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+For detailed role definitions including Product Owners, Release Managers, Business Analysts, Scrum Masters, and Quality Advocates, see the [Roles & Personas](octoacme-roles-and-personas.md) guide.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
